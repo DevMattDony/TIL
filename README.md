@@ -7,5 +7,4 @@
 ## Contents
 
 ### BlockChain
-
-- [알기 쉬운 블록체인](https://github.com/DevMattDony/TIL/tree/master/BlockChain/알기 쉬운 블록체인)
+- https://github.com/DevMattDony/TIL/tree/master/BlockChain/%EC%95%8C%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8
